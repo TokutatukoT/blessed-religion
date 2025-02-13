@@ -4,8 +4,12 @@
 		"cost": 1,
 		"faith": 100,
 		"isNationalWonder": true
-		"unique" : {
-			
-		}
+		"uniques": ["Free [Great Prophet] appears",
+			"[+1000]% Production when constructing [Worker] units [in all cities]",
+			"[-100]% Faith cost of generating Great Prophet equivalents",
+			"All newly-trained [Missionary] units [in this city] receive the [Devout] promotion",
+          		"All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion"],
+			"Destroyed when the city is captured",
+			"Only available <for [Human player] Civilizations><hidden from users>"]
 	}
 ]
