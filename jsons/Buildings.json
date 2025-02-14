@@ -1,15 +1,24 @@
 [
 	{
-		"name": "National Religion Center",
+		"name": "National Religious Center",
 		"cost": 1,
 		"faith": 100,
+		"percentStatBonus": {"faith": 100},
 		"isNationalWonder": true
-		"uniques": ["Free [Great Prophet] appears",
-			"[+1000]% Production when constructing [Worker] units [in all cities]",
-			"[-100]% Faith cost of generating Great Prophet equivalents",
-			"All newly-trained [Missionary] units [in this city] receive the [Devout] promotion",
-          		"All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion"],
+		"uniques": ["[2] free [Great Prophet] units appear",
+			"[+100]% [Faith] [in all cities]",
+			"[+100]% Spread Religion Strength <for [Great Prophet] units>",
+			"[+100]% Spread Religion Strength <for [Missionary] units>",
+			"[-50]% Faith cost of generating Great Prophet equivalents",
+			"[Faith] cost of purchasing [Missionary] units [-90]%",
+			"[Faith] cost of purchasing [Inquisitor] units [-90]%",
+			"[+100]% Natural religion spread [in this city]",
+			"Religion naturally spreads to cities [+10] tiles away",
+			"All newly-trained [Missionary] units [in all cities] receive the [Devout] promotion",
+          		"All newly-trained [Great Prophet] units [in all cities] receive the [Devout] promotion",
+			"Gain [100] [Faith] <upon expending a [Great Person] unit> <(modified by game speed)>",
 			"Destroyed when the city is captured",
+			"Only available <when religion is enabled>", 
 			"Only available <for [Human player] Civilizations><hidden from users>"]
 	}
 ]
