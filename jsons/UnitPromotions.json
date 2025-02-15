@@ -1,6 +1,11 @@
 [
     {
         "name": "Extra Devout",
-        "uniques": ["Can Spread Religion <[4] additional time(s)>"]
+        "uniques": [
+            "Can Spread Religion <[4] additional time(s)>",
+            "[+3] Movement",
+            "[+1] Sight",
+            "Ignores terrain cost"
+        ]
     }
 ]
