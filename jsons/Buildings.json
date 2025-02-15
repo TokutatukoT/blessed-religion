@@ -3,7 +3,8 @@
 		"name": "National Religious Center",
 		"cost": 0,
 		"isNationalWonder": true
-		"uniques": ["Can be purchased with [Gold] [in all cities]",
+		"uniques": ["Can be purchased with [Gold] [in capital]",
+			"Moves to new capital when capital changes",
 			"[2] free [Great Prophet] units appear",
 			"Gain a free [Shrine] [in all cities]<after founding a religion>",
 			"Gain a free [Temple] [in all cities]<after enhancing a religion>",
