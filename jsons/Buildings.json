@@ -1,15 +1,17 @@
 [
 	{
 		"name": "National Religious Center",
-		"cost": 1,
+		"cost": 0,
 		"isNationalWonder": true
-		"uniques": ["[2] free [Great Prophet] units appear",
-			"Gain a free [Shrine] [in all cities]",
-			"Gain a free [Temple] [in all cities]",
+		"uniques": ["Can be purchased with [Gold] [in all cities]",
+			"[2] free [Great Prophet] units appear",
+			"Gain a free [Shrine] [in all cities]<after founding a religion>",
+			"Gain a free [Temple] [in all cities]<after enhancing a religion>",
 			"[+100]% [Faith] [in all cities]",
+			"[+9 Faith] from every [Holy site]<after founding a religion>",
+			"[+15 Faith] from every [Holy site]<after enhancing a religion>",
 			"[+1000]% Spread Religion Strength <for [Great Prophet] units>",
 			"[+100]% Spread Religion Strength <for [Missionary] units>",
-			"[-20]% Faith cost of generating Great Prophet equivalents",
 			"[Faith] cost of purchasing [Missionary] units [-90]%",
 			"[Faith] cost of purchasing [Inquisitor] units [-90]%",
 			"[+100]% Natural religion spread [in all cities]",
